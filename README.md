@@ -1,5 +1,5 @@
 ## Spin up a node js Server (on port 3000)
-`node app.js`
+`npm start`
 
 ## The Server has three routes
 1. `GET "/"`

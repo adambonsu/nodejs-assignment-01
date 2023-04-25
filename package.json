@@ -1,0 +1,19 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "`node app.js`",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adambonsu/nodejs-assignment-01.git"
+  },
+  "author": "Adam Bonsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adambonsu/nodejs-assignment-01/issues"
+  },
+  "homepage": "https://github.com/adambonsu/nodejs-assignment-01#readme"
+}
